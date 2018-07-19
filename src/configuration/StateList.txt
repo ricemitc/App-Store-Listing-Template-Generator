@@ -1,0 +1,13 @@
+AR, Arkansas
+AZ, Arizona
+CA, California
+CO, Colorado
+FL, Florida
+MA, Massachusetts
+MN, Minnesota
+NC, North Carolina
+SC, South Carolina
+TX, Texas
+VA, Virginia
+VT, Vermont
+WA, Washington

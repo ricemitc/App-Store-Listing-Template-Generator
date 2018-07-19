@@ -1,0 +1,19 @@
+
+================================= Template Details =================================
+
+{template_version} : 1
+{template_date} : 7-17-2018
+{template_name} : Sample Store Template
+
+
+================================= Short Description =================================
+
+Short description for the app would go here. Replaces {state} and {st} in current config.
+
+
+
+================================= Long Description =================================
+
+Long description for the app might go here. Add whatever other sections you want as well.
+
+Basically anything with a {state} or {st} tag will get replaced with the current app's value in the generator. You can easily configure this project to work with any other set of apps that all share basically the same store listing information, and can adapt the project to your needs. 
